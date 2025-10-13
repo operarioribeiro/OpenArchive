@@ -4,7 +4,7 @@
 
 **Open Archive** is the application of open source technologies and archivologic biblioteconomic library information science (LIS) to the management of files in any size and degree of complexity. It is based on the [open science](https://en.wikipedia.org/wiki/Open_science) research [Open Archive Management](https://www.academia.edu/144448058/Open_Archive).
 
-![image](https://github.com/operarioribeiro/OpenArchive/blob/main/OpenArchive.png)
+![image](https://github.com/operarioribeiro/OpenArchive/blob/main/Open%20Archive.png)
 
 ##  Open Methodology:
 
@@ -61,5 +61,6 @@ Folders and Files being ordered by the year and month dates or hierarchy numbers
 - **7. Reports:** Memorial video-photographic folders ordered historically.
 
 ## Open License:
+
 
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
