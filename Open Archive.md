@@ -43,14 +43,14 @@ Folders and Files being ordered by the year and month dates or hierarchy numbers
   - **1.2.6. Recognitions:** Condecorations, doctor honoris causa (D.H.C.) Awards, badges, grants, etc.
   - **1.2.7. Recommendations:** Personal and institutional endorsement.
 - **1.3. Legal:** Preferably secured ledgers under encryption.
- - **1.3.1. Accounting:** Monthly balance budget along its due payments bills.
- - **1.3.2. Contracts:** Hiring, marriage certificate, personal insurances, job arrangements, work contracts, and other legal documents.
- - **1.3.3. Audit:** Reports, litigations, and other legal cases.
+  - **1.3.1. Accounting:** Monthly balance budget along its due payments bills.
+  - **1.3.2. Contracts:** Hiring, marriage certificate, personal insurances, job arrangements, work contracts, and other legal documents.
+  - **1.3.3. Audit:** Reports, litigations, and other legal cases.
 - **1.4. Medical:** Vaccines card, previous conditions diagnosis, emergency treatment necessities documents, and other official documents.
 - **1.5. Interface:** Personalization for the computer operational system (OS) itself.
- - **1.5.1. Fonts.**
- - **1.5.2. Wallpapers.**
- - **1.5.3. Multimedia:** Icons, skins, sounds, animations, mods, softwares, etc.
+  - **1.5.1. Fonts.**
+  - **1.5.2. Wallpapers.**
+  - **1.5.3. Multimedia:** Icons, skins, sounds, animations, mods, softwares, etc.
 - **1.6. Websites:** With at least one biographical personal page.
 - **1.7. Letters.**
 - **2. Institutions:** With one folder for each institution one works with.
@@ -64,3 +64,4 @@ Folders and Files being ordered by the year and month dates or hierarchy numbers
 
 
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
+
