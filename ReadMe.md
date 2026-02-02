@@ -1,4 +1,4 @@
-# [Open Archive](https://operarioribeiro.github.com/OpenArchive)
+# [Open Archive](https://github.com/operarioribeiro/OpenArchive)
 
 ## Open Archive
 
